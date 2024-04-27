@@ -12,18 +12,27 @@ root.render(
     <hr />
     <h3>
       This code was coded by{" "}
-      <a href="https://github.com/ElizabethBenitez20" target="_blank">
+      <a
+        href="https://github.com/ElizabethBenitez20"
+        target="_blank"
+        rel="noreferrer"
+      >
         Elizabeth Benitez
       </a>
       , is{" "}
       <a
         href="https://github.com/ElizabethBenitez20/weather-app-react"
         target="_blank"
+        rel="noreferrer"
       >
         open source
       </a>
       , and is{" "}
-      <a href="https://eb-weather-app-react.netlify.app/" target="_blank">
+      <a
+        href="https://eb-weather-app-react.netlify.app/"
+        target="_blank"
+        rel="noreferrer"
+      >
         hosted on Netlify
       </a>
       .
